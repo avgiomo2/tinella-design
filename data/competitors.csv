@@ -1,0 +1,12 @@
+brand,product_or_family,category,stone_classification,natural_stone_evidence,relative_relevance_to_tinella,sales_data_status,source_url,notes
+Salvatori,Pietra L,objects,natural_stone,verify_each_sku,very_high,undisclosed,https://www.salvatoriofficial.com/,premium accessory benchmark
+Marsotto Edizioni,marble objects and furniture,objects_furniture,natural_stone,verify_each_sku,very_high,undisclosed,https://www.marsotto.com/,CNC and sculptural geometry
+Editions Milano,Triangoli and marble vessels,vases,natural_stone,verify_each_sku,very_high,undisclosed,https://www.editionsmilano.com/,retail and collectible design
+Monolith Studio,M_010 Dining Table,table,natural_stone,travertine_or_lava_rock,very_high,undisclosed,https://monolith.nyc/products/010-dining-table,"310x100x76 cm; 775 kg; four pillars; Mexico; 8-10 weeks"
+Audo Copenhagen,Plinth,table,natural_stone,verify_variant,high,undisclosed,https://audocph.com/,design retail
+New Works,Kizu,lamp,hybrid,stone_base_other_shade,high,not_independently_verified,https://newworks.dk/,mass visibility benchmark
+Tom Dixon,Stone,lamps,hybrid,check_SKU_material,high,undisclosed,https://www.tomdixon.net/,lighting retail
+Flos,Snoopy,lamp,hybrid,marble_base_and_metal,medium,undisclosed,https://flos.com/,heritage design lighting
+Serax,marble vases,vase,natural_stone,verify_variant,medium,undisclosed,https://serax.com/,material specific
+101 Copenhagen,Sphere,vase,excluded,ceramic,none_in_stone_only,undisclosed,https://101cph.com/,ceramic adjacent competitor not stone
+Atelier Vierkant,clay objects,objects,excluded,clay,none_in_stone_only,undisclosed,https://www.ateliervierkant.com/,ceramic adjacent competitor not stone
